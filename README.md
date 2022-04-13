@@ -48,3 +48,5 @@ Step 5. To deploy your app to App Engine, run the following command from within 
     ```
 
     Read more about [Google Cloud Platform Authentication][gcp_auth].
+
+    [gcp_auth]:https://cloud.google.com/docs/authentication#projects_and_resources "gcp_auth"
